@@ -1,9 +1,5 @@
 ### Hi I'm Dasmine 👋
 
-
-**dasminew5/dasminew5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
  
 - 🔭 I’m currently working on building a solar system simulator with HTML5, CSS3 & Javascript
 - 🌱 I’m currently learning Javascript

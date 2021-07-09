@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Soft Skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dasmine-wright/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Winter is my favorite season 
+- ⚡ Fun fact: Winter is my favorite season  
 -->
